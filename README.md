@@ -1,2 +1,2 @@
-# index-website-
+# mypage
 My 1st website just for fun with newly learned skills...
